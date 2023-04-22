@@ -1,2 +1,4 @@
 # Bristish-Airways-Internship
-web scraping reviews and visualization
+Word Cloud Analysis on reviews collected from British Airways Customer Reviews - SKYTRAX (airlinequality.com) using web scrapping in Python.
+
+
